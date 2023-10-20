@@ -1,0 +1,19 @@
+
+# Copy kode dibawah ini lalu paste ke .bashrc / .bash_profile anda
+#
+: '
+export PATH="$PATH:/system/bin"
+alias r='fc -e -'
+'
+# Cara main
+# 1. Setelah anda berhasil buat alias tadi
+# 2. bash ./game_press_enter_xd.sh 
+# 3. Ketik huruf r sebelum script ini menekan tombol enter dengan sendirinya.
+# 4. Lalu lakukan sebanyak mungkin sampai looping berhenti
+#    !! Ingat tidak terlalu cepat tidak terlalu lambat
+# 5. Jika prompt anda tertulis huruf rr MAKA artinya anda game berakhir (GAME OVER) karena loopingnya juga berhenti
+# 6. Hitung skor: Hitunglah banyaknya huruf r tunggal di setiap prompt yang anda peroleh, contoh high score saya cuma sebanyak 4 (r) ditotal. harap diperhatikan rr tidak dihitung ke dalam skor.
+# 7 Jika anda typo huruf selain r anda Kalah dan game juga berakhir
+# 8. Jika anda menghitung r disetiap line tidak masalah anda harus membagi 2 misal r yang di temui di setiap line berjumlah 8 / 2 berarti Skor anda 4.
+# 8. Jadilah sportif.
+#

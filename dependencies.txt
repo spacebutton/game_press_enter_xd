@@ -1,0 +1,4 @@
+1. awk, find, bc, wc, nl
+2. /system/bin/input
+3. alias r='fc -e -'
+4. bash (v5.2.15)

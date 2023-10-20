@@ -1,0 +1,511 @@
+π
+¶
+Today
+------
+🗓️  Date: Thursday, August 10, 2023 at 18:02
+∆
+▖▄▘▗▌▄▌▌▄▌▌▖▌▖▌▖▌▌▌▄▄▄▄▄▄▄▄▖▖▌▌▌▌▌▌▌▌▄▌▌▄▌▌▌▌▗▌▗▌▌▌
+▖▝▄▗▌▗▌▄▖▌▖▄▌▄▌▌▌▗▄▘▄▌▚▘▄▄▖▄▖▌▌▌▌▌▌▌▌▖▌▌▄▌▌▖▖▌▌▗▌▌▌
+▝▄▌▌▌▝▌▄▚▌▝▌▌▗▌▝▗▌▘▌▗▝▗▘▄▝▝▄▘▖▌▌▌▌▌▌▌ ▌▌▄▌▌▝▌▌▌▌▌▌▌
+▝▘▌▝▌▄▌▄▖▗▄▄▌▌▌▗▄▄▄▄▗▚▖▖▄▄▄▖▝▖▖▌▌▌▌▌▌ ▌▌▌▌▌▌▗▌▌▌▌▌▄
+▌▌▌▌▌▌▌▘▌▌▌▌▌▌▌▗▖▄▖▗▘▄▗▄▄▖▗▄▄▝▖▌▌▌▌▘▌▄▗▌▖▌▌▄▖▌▘▝▌▌▌
+▌▌▌▌▌▌▌▝▌▌▌▖▌▌▝▌▚▗▗▘▗▄▄▝▖▌▖▄▄▖▝▌▌▌▌▌▌▖▌▌▌▘▌▌▌▘▌▌▌▌▌
+▌▝▌▝▌▌▌▌▌▝▗▄▄▄▚▘▝▄▝▝▘▄▄▝▌▘▝▄▄▌▖▖▖▌▌▌▌▘▌▌▌▗▌▌▌▌▗▌▌▌▌
+▌▄▌▄▌▖▌▄▗▄▗▄▘▘▄▖▝▗▄▗▖▖▚▗▌▖▌▌▌▌▌▝▚▘▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
+▌▗▌▌▌▗▌▌▝▖▄▝▄▄▖▌▖▝▌▌▄▄▄▘▝▄▄▘▌▌▌▝▌▄▌▌▌▌▌▌▌▌▌▘▌▌▌▌▗▌▌
+▌▄▌▌▌▖▌▄▌▝▖▄▄▚▘▌▌▄▝▄▗▄▘▄▖▄▄▄▘▝▖▄▌▌▌▌▌▘▌▌▌▌▌▖▌▌▌▌▌▌▚
+▌▌▘▌▌▌▝▄▌▗▌▄▘▗▗▘▌▌▄▄▝▄▄▄▄▄▗▄▄▄▄▄▄▄▖▄▄▌▌▄▌▌▌▝▌▌▌▌▌▘▌
+▌▌▗▌▌▌▝ ▌▌▌▌▄▗▘▌▌▄▄▄▄▖▗▄▄▄▄▄▗▌▗▘▝▄▘▄▄▄▄▖▌▌▌▄▌▌▚▌▌▌▌
+▌▖▘▌▌▌▝▝▌▗▘▘▌▄▚▗▄▄▚▄▘▄▄▄▄▄▖▗▌▖▌▝▄▘▄▄▄▄▄▝▄▖▌▌▌▌▌▌▌▌▌
+▌▝▘▌▌▌▘▌▗▗▗▌▌▝▘▗▄▘▗▄▄▄▖▄▄▄▄▄▘▄▌▝▌▖▌▝▄▝▄▄▄▝▖▗▌▗▌▌▌▌▌
+▌▗▗▖▌▖▗▘▗▘▘▌▌▌▗▄▄▄▘▄▄▄▄▄▄▄▝▖▝▘▌▄▄▗▗▄▄▄▝▄▖▝▝▖▌▌▚▌▌▌▌
+▌▘▘▌▌▌▌▗▘▗▄▌▌▝▘▘▝▄▄▄▘▘▄▗▄▄▗▗▝▄▝▖▄▗▌▌▌▖▄▝▝▝▌▖▘▌▌▌▌▌▌
+▌▝▄▘▌▌▌▗▗▘▌▌▌▌▌▘▝▄▄▄▖▄▌▄▘▄▄▌▘▝▄▌▄▖▝▖▄▄▄▄▝▖▌▚▖▚▌▌▌▌▌
+▌▄ ▝▌▌▝▌▌▘▝▝▄▌▌▘▄▝▄▗▝▄▄▄▄▄▖▗▖▄▝▝▄▄▘▌▄▄▖▖▝▝▖▝▖▖▌▌▌▖▌
+▌▌▌▌▌▌▘▌▘▗▄▝▄▘▌▌▄▄▝▄▄▗▄▄▄▗▚▝▘▄▗▗▌▝▄▘▌▌▝▖▖▝▖▖▝▖▖▌▌▗▘
+▌▌▌▌▝▘▖▝▄▖▗▄▄▘▘▌▚▘▘▗▗▄▄▄▘▗▘▄▄▌▗▝▖▗▘▖▌▌▘▝▖▄▄▄▖▝▚▖▌▌▌
+▌▌▌▌▘▗▌▌▝▄▄▄▖▌▄▌▌▄▗▗▄▄▄▄▄▘▗▖▄▄▘▗▚▝▄▄▌▌▌▗▝▄▖▌▌▌▝▌▘▘▌
+▌▄▄▗▄▌▗▖▌▌▌▘▌▝▗▌▖▗▗▌▖▄▝▝▘▝▌▗▄▝▖▌▘▗▄▄▌▌▌▌▗▄▘▌▝▖▝▌▘▄▝
+▌▗▄▗▄▌▘▖▗▌▗▖▌▌▌▌▌▌▗▖▌▖▘▄▗▝▝▌▝▌▘▘▌▖▄▄▌▄▖▗▘▘▘▌▝▗▄▘▖▘▝
+▌▝▖▌▄▘▌▌▌▌▌▌▌▌▌▌▌▖▌▄▘▌▘▗▖▌▝▝▄▘▄▌▌▌▌▄▌▗▗▄▄▄▚▄▄▘▌▌▗▗▗
+▌▌▗▄▌▌▌▌▝▌▌▌▌▄▌▗▌▌▌▄▌▘▗▝▗▄▄▄▖▗▗▘▌ ▄▗▗▄▄▖▗▄▗▘▘▝▌▌▌▌▌
+▌▌▄▖▖▌▌▘▌▌▌▘▌▖▄▌▌▝▖▝▘▗▝▌▄▖▄▘▝▄▝▖▄▗▖▝▝▖▗▘▗▄▘▌▌▗▌▌▌▌▝
+▌▘▄▄▌▌▄▄▝▌▌▌▌▝▗▌▌▘▘▄▚▄▌▗▘▄▗▝▄▄▖▝▄▄▄▖▚▝▄▘▘▖▄▌▌▘▌▌▌▌▗
+▌▌▘▌▖▌▖▌▌▌▌▌▌▌▌▌▌▌▘▘  ▘▝▝▄▚▄▖▝▝▄▄▄▄▄▘▚▌▌▌▄▝▌▌▌▌▌ ▌▘
+▌▖▗▌▖▘▌▌▖▌▌▝▌▗▝▖▌▝▌▗ ▌ ▝▝▘▄▄▄▗▌▝▚▄▘▘▌▘▗▌▌▌▖▌▌▝▝▘▌▌▌
+▌▌▝▗▌▘▌▌▖▌▖▖▝▖▘▘▌▄▖▗▖▄▄▚▗▄▄▄▄▘▌▌▝▖▘▝▌ ▘▌▌▗▄▌▌▌▗▌▌▌▌
+▌▖▖▝▌▌▌▌▄▌▘▌▌▗▖▌▌▝▌▝▘▄▌▄▗▄▘▄▄▝▄▌▗▖▘▝▝▝▘▌▌▖▗▌▌▌▌▌▌▌▘
+▌▖▌▗▗▌▌▄▄▌▌▖▗▘▌▝▌▄▖▝▖▌▗▌▄▖▄▄▄▘▌▌▖▘▗▄▖▝▌▌▌ ▄▝▌▌▌▖▌▌▖
+
+
+Memilih gambar [terpilih]
+
+3 is 😾
+<-- -->
+>:3 is 😾
+
+Hello bash
+Welcome to: /data/data/com.termux/files
+-----------------------------------------------------------
+| os >> Linux Android                                     |
+| arch >> aarch64                                         |
+| term >> xterm-256color                                  |
+| date >> Thu Aug 10 18:03:16 WIB 2023                    |
+| shell >> bash                                           |
+| kernel >> 4.19.157-perf-gc9801239f692                   |
+| uptime >> 2023-08-10 13:13:24                           |
+| battery >> 60%                                          |
+| packages >> 1568 (usr/bin)                              |
+| bash source >> alrc-termux.sh                           |
+-----------------------------------------------------------
+alrc: al is a function, More informations? you can type `whatisal'
+
+
+~ via 🐹 v1.20.5 via  v20.2.0 took 16s
+@❯ cd @Hello/
+/data/data/com.termux/files/home/@Hello
+ls[WARN] - (starship::utils): Executing command "/data/data/com.termux/files/usr/bin/kotlin" timed out.
+[WARN] - (starship::utils): You can set command_timeout in your config to a higher value to allow longer-running commands to keep executing.
+
+~/@Hello via ☕ v17 via 🅺 via 🌙 v5.1.5 via 🐘 v8.2.7 via  💎 v3.2.2 via 🔮 v1.9.2 took 16s
+@❯ ls
+ buat_kopiup.sh    HelloKt.class   pouting_cat.sh
+ fact.lua          index.php       RENAME.md
+ game              main            rubi1.rb
+ Hello-language    main.cr         text6.sh
+ hello-world.php   menu.sh
+ hello.kt          menu2.sh
+
+~/@Hello via ☕ v17 via 🅺 via 🌙 v5.1.5 via 🐘 v8.2.7 via  💎 v3.2.2 via 🔮 v1.9.2
+@❯ z game/
+/data/data/com.termux/files/home/@Hello/game
+
+~/@Hello/game
+@❯ l
+Permissions Size User    Date Modified Name
+.rwx------  3.1k u0_a316  8 Aug 06:17   game_press_enter_xd.sh
+.rw-------   962 u0_a316  8 Aug 06:17   game_press_enter_xd.sh.intructions
+.rw-------     7 u0_a316  8 Aug 06:09   game_press_enter_xd.sh.score
+.rw-------    14 u0_a316  7 Aug 17:19   game_press_enter_xd.sh.score.adha
+.rw-------    48 u0_a316  8 Aug 01:24   game_press_enter_xd.sh.score.luis
+
+~/@Hello/game
+@❯ type r
+r is aliased to `fc -e -'
+
+~/@Hello/game
+@❯ type input
+input is /system/bin/input
+
+~/@Hello/game
+@❯ bash ga
+game_press_enter_xd.sh*
+game_press_enter_xd.sh.intructions
+game_press_enter_xd.sh.score
+game_press_enter_xd.sh.score.adha
+game_press_enter_xd.sh.score.luis
+
+~/@Hello/game
+@❯ bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 6
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯
+
+~/@Hello/game
+@❯ bash game_press_enter_xd.sh reset
+Skor berhasil direset!
+
+~/@Hello/game
+@❯ bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 0
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+r
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 1
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+r
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 2
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+r👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯
+
+~/@Hello/game
+@❯ bash game_press_enter_xd.sh reset
+Skor berhasil direset!
+
+~/@Hello/game
+@❯ bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 0
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+r
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 1
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+r
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 2
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+r
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 3
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+r
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 4
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+r
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 5
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+r
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+rScore tertinggi saat ini: 47 (luis)
+Your high score: 6
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 7
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+r
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 8
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+r
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 9
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+r
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 10
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+r
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 11
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+r
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 12
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+r
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+rScore tertinggi saat ini: 47 (luis)
+Your high score: 13
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 14
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+r
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+rScore tertinggi saat ini: 47 (luis)
+Your high score: 15
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+rScore tertinggi saat ini: 47 (luis)
+Your high score: 16
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+rScore tertinggi saat ini: 47 (luis)
+Your high score: 17
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 18
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+r
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+rScore tertinggi saat ini: 47 (luis)
+Your high score: 19
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 20
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+r
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+rScore tertinggi saat ini: 47 (luis)
+Your high score: 21
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 22
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+r
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+rScore tertinggi saat ini: 47 (luis)
+Your high score: 23
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+rbash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 24
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+rbash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 25
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+rbash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 26
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+rbash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 27
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+rScore tertinggi saat ini: 47 (luis)
+Your high score: 28
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+rScore tertinggi saat ini: 47 (luis)
+Your high score: 29
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+rScore tertinggi saat ini: 47 (luis)
+Your high score: 30
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+r
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 31
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+rScore tertinggi saat ini: 47 (luis)
+Your high score: 32
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+rbash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 33
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+rScore tertinggi saat ini: 47 (luis)
+Your high score: 34
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+rScore tertinggi saat ini: 47 (luis)
+Your high score: 35
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+rScore tertinggi saat ini: 47 (luis)
+Your high score: 36
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+bash game_press_enter_xd.sh
+rScore tertinggi saat ini: 47 (luis)
+Your high score: 37
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+
+~/@Hello/game
+@❯ r
+tbash game_press_enter_xd.sh
+Score tertinggi saat ini: 47 (luis)
+Your high score: 38
+💬Tekan r secepat mungkin sebelum bot menekan Enter:
+
+👾(Ai): Telah menekan tombol Enter
+t
+~/@Hello/game
+@❯ t
+cat: '~/.local/state/bash_it/todo.txt': No such file or directory
+
+~/@Hello/game
+@❯

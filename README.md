@@ -13,6 +13,12 @@ Anda diharuskan menulis kode ini
 alias r='fc -e -'
 export PATH="PATH:/system/bin"
 ```
-kedalam bashrc Termux anda.
+kedalam bashrc Termux anda, lalu git clone repo ini
+
+```sh
+cd game_pressed_enter_xd
+
+bash game_pressed_enter_xd.sh
+```
 
 
